@@ -50,7 +50,7 @@ I’m now sharing insights and project walkthroughs on Medium and LinkedIn:
 Stay tuned for updates and feel free to connect with me on:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stephanie-savai-pmp-meal-dpro-mph-5466b51b5/)
-- 📰 Medium (coming soon)
+- 📰 [Medium](https://medium.com/@savai137)
 - 📩 GitHub Discussions
 
 ---
